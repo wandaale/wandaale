@@ -5,7 +5,7 @@
     <table border = 1>
         <tr>
             <th> E-Ticket / <i> E-Tiket </i> </th>
-            <th colspan = 4 rowspan = 2> <img src = "https://1.bp.blogspot.com/-cBfGfTYoBlY/YOMgGumda6I/AAAAAAAAIuM/Q-bnZSnnUBEFjJihQVK0ZMnJAqFjpL8QgCLcBGAsYHQ/s1453/logo-traveloka.png" > </th>
+            <th colspan = 4 rowspan = 2> <img src = "https://1.bp.blogspot.com/-cBfGfTYoBlY/YOMgGumda6I/AAAAAAAAIuM/Q-bnZSnnUBEFjJihQVK0ZMnJAqFjpL8QgCLcBGAsYHQ/s1453/logo-traveloka.png" width = 145 height = 46 > </th>
         </tr> 
         <tr>
             <th> Departure Flight / <i> Penerbangan Landas </i> </th>
